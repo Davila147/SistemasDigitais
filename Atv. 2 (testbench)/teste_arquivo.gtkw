@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Aug 18 19:23:04 2023
+[*]
+[dumpfile] "C:\Users\ferna\AppData\Local\Microsoft\Windows\INetCache\IE\ZD6N4210\teste_arquivo[1].vcd"
+[dumpfile_mtime] "Fri Aug 18 19:21:05 2023"
+[dumpfile_size] 22857
+[savefile] "C:\Users\ferna\OneDrive\Documentos\4º SEMESTRE\teste_arquivo.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -139 -139
+*-22.867352 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@28
+multiplicador_tb_arquivoteste.clk_in
+multiplicador_tb_arquivoteste.keep_simulating
+multiplicador_tb_arquivoteste.ready_out
+@22
+multiplicador_tb_arquivoteste.result_out[7:0]
+@28
+multiplicador_tb_arquivoteste.rst_in
+multiplicador_tb_arquivoteste.start_in
+@22
+multiplicador_tb_arquivoteste.va_in[3:0]
+@23
+multiplicador_tb_arquivoteste.vb_in[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
